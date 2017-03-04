@@ -1,1 +1,1 @@
-# dailycode
+# daily coding practice
